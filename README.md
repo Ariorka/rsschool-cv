@@ -1,1 +1,1 @@
-# rsschool-cv
+# Ariorka.github.io/rsschool-cv/cv
