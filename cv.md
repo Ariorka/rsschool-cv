@@ -27,13 +27,11 @@ ____________________________________________________________
 ####    }
 ____________________________________________________________
 ## Education
-### College: 
-####  Gomel State Medical College
-### Courses: 
-####  CS50 lectures
+### College: Gomel State Medical College
+### Courses: CS50 lectures
 ____________________________________________________________
 ## Languages: 
 ### Russian
 ### Belarussian
-### English (A2(but I'm trying to develop my knowledge of the language)) 
+### English (A2 (but I'm trying to develop my knowledge of the language)) 
 _____________________________________________________________
