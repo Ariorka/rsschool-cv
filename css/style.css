@@ -9,6 +9,7 @@ body
 {
     background: lightblue;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
@@ -99,3 +100,33 @@ body
     letter-spacing: 1px;
     margin-bottom: 10px;
     }
+    header
+    {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    * 
+    {
+        box-sizing: border-box;
+      }
+      
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+      
+      nav ul {
+        text-align: center;
+        display: table;
+        width: 100%;
+      }
+      
+      nav ul li {
+        padding: 0 1rem;
+        display: table-cell;
+        width: 15%;
+        
+      }
